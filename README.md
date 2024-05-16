@@ -1,2 +1,3 @@
-# Hello.csharp.boot
-Boot builder using c sharp compiler
+# html.ide
+
+this is a ide to write html the user write the code id tags and code and the program save it as a html page
