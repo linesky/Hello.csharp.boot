@@ -1,3 +1,3 @@
-# gui.super.user.root
+# img2gzip
 
-root gui user
+img into initrd.gz
